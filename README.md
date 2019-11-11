@@ -1,6 +1,7 @@
 # React Gallery
 
 In this exercise, you will use state with an API to make a gallery.
+
 Download this video to see how it should look like: [Download](https://github.com/evyros/react-gallery/blob/master/public/result.mp4?raw=true).
 
 ### Instructions:
