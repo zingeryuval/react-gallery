@@ -1,7 +1,7 @@
-#React Gallery
+# React Gallery
 
 In this exercise, you will use state with an API to make a gallery.
-It should look [like this](https://giuthub.com/evyros/react-gallery/tree/master/public/result.mp4)
+Download this video to see how it should look like: [Download](https://github.com/evyros/react-gallery/blob/master/public/result.mp4?raw=true).
 
 ### Instructions:
 1. Fork this repo to your account
